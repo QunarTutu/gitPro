@@ -1,1 +1,5 @@
-这是第一个readme.txt
+
+git is a distributed version control system
+git is free software
+hello small babi
+hello friend
